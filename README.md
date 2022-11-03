@@ -4,8 +4,8 @@
 - Steps1: - Install the prerequisites
 
   - •	Set up FastAPI app and create a virtual environment and activate it
-  - •	Install FastAPI with commands pip install fastapi
-  - •	Install uvicorn with command pip install uvicorn
+  - •	Install FastAPI with commands **pip install fastapi**
+  - •	Install uvicorn with command **pip install uvicorn**
   
 ## Steps2: - Setting a hello world API using FAST API
     - •	Create an app file using the command in terminal touch main.py
